@@ -1,0 +1,15 @@
+Region,Service,Monthly,First 12 months total,Configuration details
+,,,,
+US East (N. Virginia),Amazon Virtual Private Cloud (VPC),263.25 USD,3159 USD,1 NAT Gateways (5TB Data Processed per NAT Gateway)
+US East (N. Virginia),Amazon RDS for MySQL,"3,959.08 USD",47508.96 USD,"Quantity (2), Storage volume (General Purpose SSD (gp2)), Storage amount (5 TB per month), Instance type (db.m5.xlarge), Additional backup storage (10 TB)"
+US East (N. Virginia),Amazon EC2,"2,678.09 USD",32137.08 USD,"Operating system (Linux), Quantity (15), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1 TB), Instance type (t3.xlarge)"
+US East (N. Virginia),Amazon Virtual Private Cloud (VPC),"1,126.31 USD",13515.72 USD,Data Transfer (10TB per month)
+US East (N. Virginia),Amazon Simple Storage Service (S3) / S3 Standard,"1,170.85 USD",14050.2 USD,S3 Standard storage (10 TB per month) / Inbound Data Transfer (10 TB per month) / Outbound Data Transfer (10TB per month)
+US East (N. Virginia),AWS Data Transfer,"1,023.91 USD",12286.92 USD,Inbound 10TB per month / Intra-Region 5TB per month / Outbound 10TB per mont - Data Transfer
+US East (N. Virginia),Elastic Load Balancing,44.57 USD,294.2 USD,"Number of Application Load Balancers (2), 1 GB per hour"
+,,,,
+US East (Ohio),Amazon RDS for MySQL,"3,967.63 USD",47611.56 USD,"Quantity (2), Storage volume (General Purpose SSD (gp2)), Storage amount (5 TB per month), Instance type (db.m5.xlarge), Additional backup storage (10 TB)"
+US East (Ohio),Amazon EC2,"2,678.09 USD",32137.08 USD,"Operating system (Linux), Quantity (15), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1 TB), Instance type (t3.xlarge)"
+US East (Ohio),Amazon Virtual Private Cloud (VPC),263.25 USD,3159 USD,1 NAT Gateways (5TB Data Processed per NAT Gateway)
+US East (Ohio),Elastic Load Balancing,44.57 USD,534.84 USD,"Number of Application Load Balancers (2), 1 GB per hour"
+US East (Ohio),Amazon Virtual Private Cloud (VPC),"1,126.31 USD",13515.72 USD,Data Transfer (10TB per month)
